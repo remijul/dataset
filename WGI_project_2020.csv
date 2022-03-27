@@ -83,12 +83,12 @@ Azerbaijan,AZE,Political Stability and Absence of Violence/Terrorism: Estimate,P
 Azerbaijan,AZE,Regulatory Quality: Estimate,RQ.EST,-0.282158344984055
 Azerbaijan,AZE,Rule of Law: Estimate,RL.EST,-0.565593540668488
 Azerbaijan,AZE,Voice and Accountability: Estimate,VA.EST,-1.60271906852722
-Bahamas, The,BHS,Control of Corruption: Estimate,CC.EST,1.13452935218811
-Bahamas, The,BHS,Government Effectiveness: Estimate,GE.EST,0.717308938503265
-Bahamas, The,BHS,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.90334540605545
-Bahamas, The,BHS,Regulatory Quality: Estimate,RQ.EST,0.257599502801895
-Bahamas, The,BHS,Rule of Law: Estimate,RL.EST,0.229195848107338
-Bahamas, The,BHS,Voice and Accountability: Estimate,VA.EST,0.940302491188049
+Bahamas The,BHS,Control of Corruption: Estimate,CC.EST,1.13452935218811
+Bahamas The,BHS,Government Effectiveness: Estimate,GE.EST,0.717308938503265
+Bahamas The,BHS,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.90334540605545
+Bahamas The,BHS,Regulatory Quality: Estimate,RQ.EST,0.257599502801895
+Bahamas The,BHS,Rule of Law: Estimate,RL.EST,0.229195848107338
+Bahamas The,BHS,Voice and Accountability: Estimate,VA.EST,0.940302491188049
 Bahrain,BHR,Control of Corruption: Estimate,CC.EST,-0.0582483634352684
 Bahrain,BHR,Government Effectiveness: Estimate,GE.EST,0.324103683233261
 Bahrain,BHR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.861849665641785
@@ -257,18 +257,18 @@ Comoros,COM,Political Stability and Absence of Violence/Terrorism: Estimate,PV.E
 Comoros,COM,Regulatory Quality: Estimate,RQ.EST,-1.04955267906189
 Comoros,COM,Rule of Law: Estimate,RL.EST,-1.12799179553986
 Comoros,COM,Voice and Accountability: Estimate,VA.EST,-0.183175697922707
-Congo, Dem. Rep.,COD,Control of Corruption: Estimate,CC.EST,-1.33309137821198
-Congo, Dem. Rep.,COD,Government Effectiveness: Estimate,GE.EST,-1.50525689125061
-Congo, Dem. Rep.,COD,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-2.19761514663696
-Congo, Dem. Rep.,COD,Regulatory Quality: Estimate,RQ.EST,-1.32396197319031
-Congo, Dem. Rep.,COD,Rule of Law: Estimate,RL.EST,-1.61356055736542
-Congo, Dem. Rep.,COD,Voice and Accountability: Estimate,VA.EST,-1.3902975320816
-Congo, Rep.,COG,Control of Corruption: Estimate,CC.EST,-1.2073587179184
-Congo, Rep.,COG,Government Effectiveness: Estimate,GE.EST,-1.09565854072571
-Congo, Rep.,COG,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.565750539302826
-Congo, Rep.,COG,Regulatory Quality: Estimate,RQ.EST,-1.16558682918549
-Congo, Rep.,COG,Rule of Law: Estimate,RL.EST,-1.0424622297287
-Congo, Rep.,COG,Voice and Accountability: Estimate,VA.EST,-1.16012322902679
+Congo Dem. Rep.,COD,Control of Corruption: Estimate,CC.EST,-1.33309137821198
+Congo Dem. Rep.,COD,Government Effectiveness: Estimate,GE.EST,-1.50525689125061
+Congo Dem. Rep.,COD,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-2.19761514663696
+Congo Dem. Rep.,COD,Regulatory Quality: Estimate,RQ.EST,-1.32396197319031
+Congo Dem. Rep.,COD,Rule of Law: Estimate,RL.EST,-1.61356055736542
+Congo Dem. Rep.,COD,Voice and Accountability: Estimate,VA.EST,-1.3902975320816
+Congo Rep.,COG,Control of Corruption: Estimate,CC.EST,-1.2073587179184
+Congo Rep.,COG,Government Effectiveness: Estimate,GE.EST,-1.09565854072571
+Congo Rep.,COG,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.565750539302826
+Congo Rep.,COG,Regulatory Quality: Estimate,RQ.EST,-1.16558682918549
+Congo Rep.,COG,Rule of Law: Estimate,RL.EST,-1.0424622297287
+Congo Rep.,COG,Voice and Accountability: Estimate,VA.EST,-1.16012322902679
 Cook Islands,COK,Control of Corruption: Estimate,CC.EST,..
 Cook Islands,COK,Government Effectiveness: Estimate,GE.EST,..
 Cook Islands,COK,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,..
@@ -407,12 +407,12 @@ Gabon,GAB,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST
 Gabon,GAB,Regulatory Quality: Estimate,RQ.EST,-0.797914206981659
 Gabon,GAB,Rule of Law: Estimate,RL.EST,-0.58434921503067
 Gabon,GAB,Voice and Accountability: Estimate,VA.EST,-0.964300215244293
-Gambia, The,GMB,Control of Corruption: Estimate,CC.EST,-0.796910166740417
-Gambia, The,GMB,Government Effectiveness: Estimate,GE.EST,-0.843511879444122
-Gambia, The,GMB,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.520871698856354
-Gambia, The,GMB,Regulatory Quality: Estimate,RQ.EST,-0.509284317493439
-Gambia, The,GMB,Rule of Law: Estimate,RL.EST,-0.747435212135315
-Gambia, The,GMB,Voice and Accountability: Estimate,VA.EST,-1.27518129348755
+Gambia The,GMB,Control of Corruption: Estimate,CC.EST,-0.796910166740417
+Gambia The,GMB,Government Effectiveness: Estimate,GE.EST,-0.843511879444122
+Gambia The,GMB,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.520871698856354
+Gambia The,GMB,Regulatory Quality: Estimate,RQ.EST,-0.509284317493439
+Gambia The,GMB,Rule of Law: Estimate,RL.EST,-0.747435212135315
+Gambia The,GMB,Voice and Accountability: Estimate,VA.EST,-1.27518129348755
 Georgia,GEO,Control of Corruption: Estimate,CC.EST,0.673087775707245
 Georgia,GEO,Government Effectiveness: Estimate,GE.EST,0.511828899383545
 Georgia,GEO,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.286235988140106
@@ -491,12 +491,12 @@ Honduras,HND,Political Stability and Absence of Violence/Terrorism: Estimate,PV.
 Honduras,HND,Regulatory Quality: Estimate,RQ.EST,-0.513025224208832
 Honduras,HND,Rule of Law: Estimate,RL.EST,-1.1115403175354
 Honduras,HND,Voice and Accountability: Estimate,VA.EST,-0.428190350532532
-Hong Kong SAR, China,HKG,Control of Corruption: Estimate,CC.EST,1.5771564245224
-Hong Kong SAR, China,HKG,Government Effectiveness: Estimate,GE.EST,1.86094462871552
-Hong Kong SAR, China,HKG,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.841842353343964
-Hong Kong SAR, China,HKG,Regulatory Quality: Estimate,RQ.EST,2.15409326553345
-Hong Kong SAR, China,HKG,Rule of Law: Estimate,RL.EST,1.69526934623718
-Hong Kong SAR, China,HKG,Voice and Accountability: Estimate,VA.EST,0.268440127372742
+Hong Kong SAR China,HKG,Control of Corruption: Estimate,CC.EST,1.5771564245224
+Hong Kong SAR China,HKG,Government Effectiveness: Estimate,GE.EST,1.86094462871552
+Hong Kong SAR China,HKG,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.841842353343964
+Hong Kong SAR China,HKG,Regulatory Quality: Estimate,RQ.EST,2.15409326553345
+Hong Kong SAR China,HKG,Rule of Law: Estimate,RL.EST,1.69526934623718
+Hong Kong SAR China,HKG,Voice and Accountability: Estimate,VA.EST,0.268440127372742
 Hungary,HUN,Control of Corruption: Estimate,CC.EST,0.0812878683209419
 Hungary,HUN,Government Effectiveness: Estimate,GE.EST,0.452733814716339
 Hungary,HUN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.714944005012512
@@ -521,12 +521,12 @@ Indonesia,IDN,Political Stability and Absence of Violence/Terrorism: Estimate,PV
 Indonesia,IDN,Regulatory Quality: Estimate,RQ.EST,-0.12233479321003
 Indonesia,IDN,Rule of Law: Estimate,RL.EST,-0.355571955442429
 Indonesia,IDN,Voice and Accountability: Estimate,VA.EST,0.143167585134506
-Iran, Islamic Rep.,IRN,Control of Corruption: Estimate,CC.EST,-0.716408312320709
-Iran, Islamic Rep.,IRN,Government Effectiveness: Estimate,GE.EST,-0.204273581504822
-Iran, Islamic Rep.,IRN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.744589269161224
-Iran, Islamic Rep.,IRN,Regulatory Quality: Estimate,RQ.EST,-1.22947776317596
-Iran, Islamic Rep.,IRN,Rule of Law: Estimate,RL.EST,-0.712391138076782
-Iran, Islamic Rep.,IRN,Voice and Accountability: Estimate,VA.EST,-1.38611721992493
+Iran Islamic Rep.,IRN,Control of Corruption: Estimate,CC.EST,-0.716408312320709
+Iran Islamic Rep.,IRN,Government Effectiveness: Estimate,GE.EST,-0.204273581504822
+Iran Islamic Rep.,IRN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.744589269161224
+Iran Islamic Rep.,IRN,Regulatory Quality: Estimate,RQ.EST,-1.22947776317596
+Iran Islamic Rep.,IRN,Rule of Law: Estimate,RL.EST,-0.712391138076782
+Iran Islamic Rep.,IRN,Voice and Accountability: Estimate,VA.EST,-1.38611721992493
 Iraq,IRQ,Control of Corruption: Estimate,CC.EST,-1.39599180221558
 Iraq,IRQ,Government Effectiveness: Estimate,GE.EST,-1.26427257061005
 Iraq,IRQ,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-2.2778000831604
@@ -563,12 +563,12 @@ Japan,JPN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST
 Japan,JPN,Regulatory Quality: Estimate,RQ.EST,1.42820978164673
 Japan,JPN,Rule of Law: Estimate,RL.EST,1.37756633758545
 Japan,JPN,Voice and Accountability: Estimate,VA.EST,1.00122117996216
-Jersey, Channel Islands,JEY,Control of Corruption: Estimate,CC.EST,1.14184963703156
-Jersey, Channel Islands,JEY,Government Effectiveness: Estimate,GE.EST,1.27511870861053
-Jersey, Channel Islands,JEY,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,1.31910979747772
-Jersey, Channel Islands,JEY,Regulatory Quality: Estimate,RQ.EST,0.698701679706573
-Jersey, Channel Islands,JEY,Rule of Law: Estimate,RL.EST,1.73632884025574
-Jersey, Channel Islands,JEY,Voice and Accountability: Estimate,VA.EST,1.26906669139862
+Jersey Channel Islands,JEY,Control of Corruption: Estimate,CC.EST,1.14184963703156
+Jersey Channel Islands,JEY,Government Effectiveness: Estimate,GE.EST,1.27511870861053
+Jersey Channel Islands,JEY,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,1.31910979747772
+Jersey Channel Islands,JEY,Regulatory Quality: Estimate,RQ.EST,0.698701679706573
+Jersey Channel Islands,JEY,Rule of Law: Estimate,RL.EST,1.73632884025574
+Jersey Channel Islands,JEY,Voice and Accountability: Estimate,VA.EST,1.26906669139862
 Jordan,JOR,Control of Corruption: Estimate,CC.EST,0.268876373767853
 Jordan,JOR,Government Effectiveness: Estimate,GE.EST,0.13606396317482
 Jordan,JOR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.533168256282806
@@ -593,18 +593,18 @@ Kiribati,KIR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.
 Kiribati,KIR,Regulatory Quality: Estimate,RQ.EST,-0.838994562625885
 Kiribati,KIR,Rule of Law: Estimate,RL.EST,0.211863026022911
 Kiribati,KIR,Voice and Accountability: Estimate,VA.EST,1.03422045707703
-Korea, Dem. People’s Rep.,PRK,Control of Corruption: Estimate,CC.EST,-1.44958972930908
-Korea, Dem. People’s Rep.,PRK,Government Effectiveness: Estimate,GE.EST,-1.64748001098633
-Korea, Dem. People’s Rep.,PRK,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.710825681686401
-Korea, Dem. People’s Rep.,PRK,Regulatory Quality: Estimate,RQ.EST,-2.3319296836853
-Korea, Dem. People’s Rep.,PRK,Rule of Law: Estimate,RL.EST,-1.63240993022919
-Korea, Dem. People’s Rep.,PRK,Voice and Accountability: Estimate,VA.EST,-2.1323139667511
-Korea, Rep.,KOR,Control of Corruption: Estimate,CC.EST,0.372360110282898
-Korea, Rep.,KOR,Government Effectiveness: Estimate,GE.EST,1.07007157802582
-Korea, Rep.,KOR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.171203106641769
-Korea, Rep.,KOR,Regulatory Quality: Estimate,RQ.EST,1.11430299282074
-Korea, Rep.,KOR,Rule of Law: Estimate,RL.EST,1.14164233207703
-Korea, Rep.,KOR,Voice and Accountability: Estimate,VA.EST,0.625162184238434
+Korea Dem. People’s Rep.,PRK,Control of Corruption: Estimate,CC.EST,-1.44958972930908
+Korea Dem. People’s Rep.,PRK,Government Effectiveness: Estimate,GE.EST,-1.64748001098633
+Korea Dem. People’s Rep.,PRK,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.710825681686401
+Korea Dem. People’s Rep.,PRK,Regulatory Quality: Estimate,RQ.EST,-2.3319296836853
+Korea Dem. People’s Rep.,PRK,Rule of Law: Estimate,RL.EST,-1.63240993022919
+Korea Dem. People’s Rep.,PRK,Voice and Accountability: Estimate,VA.EST,-2.1323139667511
+Korea Rep.,KOR,Control of Corruption: Estimate,CC.EST,0.372360110282898
+Korea Rep.,KOR,Government Effectiveness: Estimate,GE.EST,1.07007157802582
+Korea Rep.,KOR,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.171203106641769
+Korea Rep.,KOR,Regulatory Quality: Estimate,RQ.EST,1.11430299282074
+Korea Rep.,KOR,Rule of Law: Estimate,RL.EST,1.14164233207703
+Korea Rep.,KOR,Voice and Accountability: Estimate,VA.EST,0.625162184238434
 Kosovo,XKX,Control of Corruption: Estimate,CC.EST,-0.420259982347488
 Kosovo,XKX,Government Effectiveness: Estimate,GE.EST,-0.437375634908676
 Kosovo,XKX,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.204919964075089
@@ -677,12 +677,12 @@ Luxembourg,LUX,Political Stability and Absence of Violence/Terrorism: Estimate,P
 Luxembourg,LUX,Regulatory Quality: Estimate,RQ.EST,1.72225940227509
 Luxembourg,LUX,Rule of Law: Estimate,RL.EST,1.71460390090942
 Luxembourg,LUX,Voice and Accountability: Estimate,VA.EST,1.43676674365997
-Macao SAR, China,MAC,Control of Corruption: Estimate,CC.EST,0.833075344562531
-Macao SAR, China,MAC,Government Effectiveness: Estimate,GE.EST,1.17795729637146
-Macao SAR, China,MAC,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,1.41510915756226
-Macao SAR, China,MAC,Regulatory Quality: Estimate,RQ.EST,1.78144979476929
-Macao SAR, China,MAC,Rule of Law: Estimate,RL.EST,0.827039062976837
-Macao SAR, China,MAC,Voice and Accountability: Estimate,VA.EST,-0.0559072494506836
+Macao SAR China,MAC,Control of Corruption: Estimate,CC.EST,0.833075344562531
+Macao SAR China,MAC,Government Effectiveness: Estimate,GE.EST,1.17795729637146
+Macao SAR China,MAC,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,1.41510915756226
+Macao SAR China,MAC,Regulatory Quality: Estimate,RQ.EST,1.78144979476929
+Macao SAR China,MAC,Rule of Law: Estimate,RL.EST,0.827039062976837
+Macao SAR China,MAC,Voice and Accountability: Estimate,VA.EST,-0.0559072494506836
 Macedonia, FYR,MKD,Control of Corruption: Estimate,CC.EST,-0.30718868970871
 Macedonia, FYR,MKD,Government Effectiveness: Estimate,GE.EST,0.094409391283989
 Macedonia, FYR,MKD,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.382267683744431
@@ -755,12 +755,12 @@ Mexico,MEX,Political Stability and Absence of Violence/Terrorism: Estimate,PV.ES
 Mexico,MEX,Regulatory Quality: Estimate,RQ.EST,0.287015408277512
 Mexico,MEX,Rule of Law: Estimate,RL.EST,-0.503426969051361
 Mexico,MEX,Voice and Accountability: Estimate,VA.EST,-0.0885976478457451
-Micronesia, Fed. Sts.,FSM,Control of Corruption: Estimate,CC.EST,0.653046071529388
-Micronesia, Fed. Sts.,FSM,Government Effectiveness: Estimate,GE.EST,-0.349572777748108
-Micronesia, Fed. Sts.,FSM,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,1.04967868328094
-Micronesia, Fed. Sts.,FSM,Regulatory Quality: Estimate,RQ.EST,-0.966066122055054
-Micronesia, Fed. Sts.,FSM,Rule of Law: Estimate,RL.EST,-0.0604708753526211
-Micronesia, Fed. Sts.,FSM,Voice and Accountability: Estimate,VA.EST,1.15924096107483
+Micronesia Fed. Sts.,FSM,Control of Corruption: Estimate,CC.EST,0.653046071529388
+Micronesia Fed. Sts.,FSM,Government Effectiveness: Estimate,GE.EST,-0.349572777748108
+Micronesia Fed. Sts.,FSM,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,1.04967868328094
+Micronesia Fed. Sts.,FSM,Regulatory Quality: Estimate,RQ.EST,-0.966066122055054
+Micronesia Fed. Sts.,FSM,Rule of Law: Estimate,RL.EST,-0.0604708753526211
+Micronesia Fed. Sts.,FSM,Voice and Accountability: Estimate,VA.EST,1.15924096107483
 Moldova,MDA,Control of Corruption: Estimate,CC.EST,-0.959396839141846
 Moldova,MDA,Government Effectiveness: Estimate,GE.EST,-0.616518259048462
 Moldova,MDA,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-0.276612102985382
@@ -1241,12 +1241,12 @@ Vanuatu,VUT,Political Stability and Absence of Violence/Terrorism: Estimate,PV.E
 Vanuatu,VUT,Regulatory Quality: Estimate,RQ.EST,-0.293057471513748
 Vanuatu,VUT,Rule of Law: Estimate,RL.EST,0.32177197933197
 Vanuatu,VUT,Voice and Accountability: Estimate,VA.EST,0.692246913909912
-Venezuela, RB,VEN,Control of Corruption: Estimate,CC.EST,-1.39255726337433
-Venezuela, RB,VEN,Government Effectiveness: Estimate,GE.EST,-1.29338192939758
-Venezuela, RB,VEN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-1.02612006664276
-Venezuela, RB,VEN,Regulatory Quality: Estimate,RQ.EST,-1.99690878391266
-Venezuela, RB,VEN,Rule of Law: Estimate,RL.EST,-2.1784930229187
-Venezuela, RB,VEN,Voice and Accountability: Estimate,VA.EST,-1.13477694988251
+Venezuela RB,VEN,Control of Corruption: Estimate,CC.EST,-1.39255726337433
+Venezuela RB,VEN,Government Effectiveness: Estimate,GE.EST,-1.29338192939758
+Venezuela RB,VEN,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-1.02612006664276
+Venezuela RB,VEN,Regulatory Quality: Estimate,RQ.EST,-1.99690878391266
+Venezuela RB,VEN,Rule of Law: Estimate,RL.EST,-2.1784930229187
+Venezuela RB,VEN,Voice and Accountability: Estimate,VA.EST,-1.13477694988251
 Vietnam,VNM,Control of Corruption: Estimate,CC.EST,-0.39631524682045
 Vietnam,VNM,Government Effectiveness: Estimate,GE.EST,0.010342133231461
 Vietnam,VNM,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.168573662638664
@@ -1265,12 +1265,12 @@ West Bank and Gaza,PSE,Political Stability and Absence of Violence/Terrorism: Es
 West Bank and Gaza,PSE,Regulatory Quality: Estimate,RQ.EST,0.064761221408844
 West Bank and Gaza,PSE,Rule of Law: Estimate,RL.EST,-0.306333690881729
 West Bank and Gaza,PSE,Voice and Accountability: Estimate,VA.EST,-1.16916120052338
-Yemen, Rep.,YEM,Control of Corruption: Estimate,CC.EST,-1.668297290802
-Yemen, Rep.,YEM,Government Effectiveness: Estimate,GE.EST,-1.81949746608734
-Yemen, Rep.,YEM,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-2.79377603530884
-Yemen, Rep.,YEM,Regulatory Quality: Estimate,RQ.EST,-1.47993290424347
-Yemen, Rep.,YEM,Rule of Law: Estimate,RL.EST,-1.60098910331726
-Yemen, Rep.,YEM,Voice and Accountability: Estimate,VA.EST,-1.65175592899323
+Yemen Rep.,YEM,Control of Corruption: Estimate,CC.EST,-1.668297290802
+Yemen Rep.,YEM,Government Effectiveness: Estimate,GE.EST,-1.81949746608734
+Yemen Rep.,YEM,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,-2.79377603530884
+Yemen Rep.,YEM,Regulatory Quality: Estimate,RQ.EST,-1.47993290424347
+Yemen Rep.,YEM,Rule of Law: Estimate,RL.EST,-1.60098910331726
+Yemen Rep.,YEM,Voice and Accountability: Estimate,VA.EST,-1.65175592899323
 Zambia,ZMB,Control of Corruption: Estimate,CC.EST,-0.396115690469742
 Zambia,ZMB,Government Effectiveness: Estimate,GE.EST,-0.658354103565216
 Zambia,ZMB,Political Stability and Absence of Violence/Terrorism: Estimate,PV.EST,0.18308162689209
