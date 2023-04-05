@@ -11,7 +11,6 @@ Customer Type:The customer type (Loyal customer, disloyal customer)
 Flight distance:The flight distance of this journey
 Inflight wifi service:Satisfaction level of the inflight wifi service (0:Not Applicable;1-5)
 Ease of Online booking:Satisfaction level of online booking
-Inflight service:Satisfaction level of inflight service
 Online boarding:Satisfaction level of online boarding
 Inflight entertainment:Satisfaction level of inflight entertainment
 Food and drink:Satisfaction level of Food and drink
